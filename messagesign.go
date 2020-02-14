@@ -1,4 +1,4 @@
-// Copyright 2014 The Monero Developers.
+// Copyright 2014 The ByteRub Developers.
 // All rights reserved.
 // Use of this source code is governed by the MIT
 // license that can be found in the LICENSE file.

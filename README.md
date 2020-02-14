@@ -43,7 +43,7 @@ For more information on signature blinding, refer to
 
 ## Installation
 With Go installed, run the following command:
-  ```$ go get github.com/monero-project/urs/...```
+  ```$ go get github.com/byterubpay/urs/...```
 
 ## Usage
   -B=false: Enable signature blinding (non-unique!); B|blind
